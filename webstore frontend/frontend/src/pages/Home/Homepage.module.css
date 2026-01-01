@@ -1,0 +1,13 @@
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background: #242424;
+    color: white;
+}
+
+/* .navbar {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+} */
